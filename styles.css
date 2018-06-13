@@ -48,3 +48,28 @@ p.boxed{
  border: 4px solid #0000ff;
  padding: .1em .2em 0 .3em;    
 }
+p#mission-statement{
+ font-family: "Times New Roman", Times, serif;
+ font-size: 1.2em;
+ color: darkblue;
+}
+#special{
+ font-size: 1.5em;
+ font-style: italic;
+}
+div#main{
+ font-size: 1.1em;
+ margin: .1em .2em .2em ,2em;    
+ text-align: justify;
+ text-align: center;
+}
+img.owns-its-own-line{
+ display: block;    
+}
+img.inset{
+ margin-left: 5em;    
+}
+img.mid{
+ display: block;
+ margin: 0 auto 0 auto;
+}
