@@ -73,3 +73,10 @@ img.mid{
  display: block;
  margin: 0 auto 0 auto;
 }
+img.fl {
+  float: left;
+  margin-right: .5em;
+}
+p.clr {
+  clear: both;
+}
